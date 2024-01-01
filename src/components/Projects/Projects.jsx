@@ -10,7 +10,7 @@ const Projects = () => {
 
   const filteredProjects = data;//.filter((item) => item.type === selectedType);
   const [showAllProjects, setShowAllProjects] = useState(false);
-  console.log("filteredProjects===>", filteredProjects);
+  // console.log("filteredProjects===>", filteredProjects);
 
   const displayedProjects = showAllProjects
     ? filteredProjects
