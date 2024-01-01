@@ -40,7 +40,7 @@ const HomeBanner = () => {
             Expert <span className="text-primary">Artificial Intelligence</span> Engineer
           </h2>
           <p className="dark:text-gray-200 text-center mx-auto font-medium max-w-2xl pb-4">
-            I am Artificial Intelligence Engineer with one and half years work experience.Passionate Artificial Intelligence Engineer, Generative AI and MLOps Specialist dedicated to leveraging the power of AI and operational excellence to drive transformative solutions.
+            I am Artificial Intelligence Engineer with two years work experience.Passionate Artificial Intelligence Engineer, Generative AI and MLOps Specialist dedicated to leveraging the power of AI and operational excellence to drive transformative solutions.
           </p>
           <div className="flex justify-center space-x-5 items-center mt-5 pb-10">
             <Link
