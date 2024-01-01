@@ -23,7 +23,7 @@ const About = () => {
           </div>
 
           <p className="dark:text-gray-300 text-gray-500 text-justify mb-2">
-          Welcome! I'm Md Reyad Hossain, an AI Engineer with a passion for crafting 
+          Welcome! I am Md Reyad Hossain, an AI Engineer with a passion for crafting 
           intelligent solutions. Armed with a undergrad from North South University, 
           I specialize in machine learning, deep learning, data science and data analysis.
           </p>
@@ -32,15 +32,15 @@ const About = () => {
           I am also specializing in computer vision, NLP, Generative AI, large language models, and 
           MLops.I specialize in crafting innovative solutions at the intersection of 
           data science and artificial intelligence. Proficient in Python and frameworks 
-          like TensorFlow and PyTorch, I've successfully implemented advanced models. 
-          Whether it's enhancing computer vision applications or optimizing NLP algorithms, 
+          like TensorFlow and PyTorch, I have successfully implemented advanced models. 
+          Whether it is enhancing computer vision applications or optimizing NLP algorithms, 
           my passion lies in pushing the boundaries of AI innovation
           </p>
 
           <p className="dark:text-gray-300 text-gray-500 text-justify font-medium mb-2">
           I believe in the transformative power of AI to tackle real-world challenges ethically. 
-          Continuous learning fuels my dynamic approach, and I'm always open to collaboration. 
-          Let's connect and explore the exciting possibilities at the intersection of technology and 
+          Continuous learning fuels my dynamic approach, and I am always open to collaboration. 
+          Lets connect and explore the exciting possibilities at the intersection of technology and 
           innovation.
           </p>
 

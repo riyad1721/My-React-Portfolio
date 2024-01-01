@@ -21,7 +21,7 @@ export const data = [
     id: 4,
     title: "Computer Vision",
     description:
-      "As a computer vision enthusiast, I specialize in developing algorithms that enable machines to interpret and understand visual information. Proficient in utilizing state-of-the-art techniques and frameworks such as OpenCV and TensorFlow, my work spans image recognition, object detection, and facial recognition. With a passion for creating systems that 'see' and interpret the world, my portfolio showcases projects that harness the power of computer vision to solve diverse problems. Explore my work to witness the fusion of cutting-edge technology and visual intelligence, as I bring innovative solutions to life through the lens of computer vision.",
+      "As a computer vision enthusiast, I specialize in developing algorithms that enable machines to interpret and understand visual information. Proficient in utilizing state-of-the-art techniques and frameworks such as OpenCV and TensorFlow, my work spans image recognition, object detection, and facial recognition. With a passion for creating systems that see and interpret the world, my portfolio showcases projects that harness the power of computer vision to solve diverse problems. Explore my work to witness the fusion of cutting-edge technology and visual intelligence, as I bring innovative solutions to life through the lens of computer vision.",
   },
   {
     id: 5,
@@ -33,7 +33,7 @@ export const data = [
     id: 6,
     title: "Genarative AI",
     description:
-      "As a generative AI enthusiast, I specialize in pushing the boundaries of creativity and innovation. Proficient in frameworks such as GPT, VAEs, and GANs, my expertise lies in creating systems that generate new and meaningful content. From text and images to music and beyond, my portfolio showcases projects where I've harnessed the power of generative models to produce novel and captivating outputs. Explore my work to witness the fusion of cutting-edge technology and artistic expression, as I bring to life the limitless possibilities of generative AI",
+      "As a generative AI enthusiast, I specialize in pushing the boundaries of creativity and innovation. Proficient in frameworks such as GPT, VAEs, and GANs, my expertise lies in creating systems that generate new and meaningful content. From text and images to music and beyond, my portfolio showcases projects where I have harnessed the power of generative models to produce novel and captivating outputs. Explore my work to witness the fusion of cutting-edge technology and artistic expression, as I bring to life the limitless possibilities of generative AI",
   },
   {
     id: 7,
