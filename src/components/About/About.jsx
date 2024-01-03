@@ -25,7 +25,7 @@ const About = () => {
           <p className="dark:text-gray-300 text-gray-500 text-justify mb-2">
           Welcome! I am Md Reyad Hossain, an AI Engineer with a passion for crafting 
           intelligent solutions. Armed with a undergrad from North South University, 
-          I specialize in machine learning, deep learning, data science and data analysis.
+          I specialize in machine learning, deep learning, data science and data analysis.I have two years experience in professional field.
           </p>
 
           <p className="dark:text-gray-300 text-gray-500 text-justify font-medium mb-2">
