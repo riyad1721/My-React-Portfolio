@@ -5,7 +5,7 @@ import { BsFacebook } from "react-icons/bs";
 import { AiFillSkype } from "react-icons/ai";
 import { SiGmail } from "react-icons/si";
 import { TiSocialLinkedinCircular } from "react-icons/ti";
-import resume from "./resume.pdf";
+import resume from "./MD._Reyad_Hossain.pdf";
 import ChangeColor from "../layout/ChangeColor";
 import { gsap } from "gsap";
 import { useEffect } from "react";
